@@ -17,6 +17,7 @@ public class CommonFunctionsClass {
 	public static WebDriver driver;
 	public Properties property;
 	
+	//from Tester
 	
 @BeforeTest
 	public void loadpropertyfile() throws IOException {
